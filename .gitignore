@@ -2,8 +2,4 @@
 
 .vscode/
 
-!build/
-!devel/
-!include/
-!src/
 
