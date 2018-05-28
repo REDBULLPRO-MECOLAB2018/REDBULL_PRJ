@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: redbull_prj
+Description: Description of redbull_prj
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

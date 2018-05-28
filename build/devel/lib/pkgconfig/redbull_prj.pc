@@ -1,0 +1,8 @@
+prefix=/home/amsl/ros_catkin_ws/src/redbull_prj/build/devel
+
+Name: redbull_prj
+Description: Description of redbull_prj
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amsl/ros_catkin_ws/src/redbull_prj/build/devel/lib 
+Requires: 
