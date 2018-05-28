@@ -1,3 +1,9 @@
 #このファイルに記述されたものは, githubに追跡されなくなる
 
 .vscode/
+
+!build/
+!devel/
+!include/
+!src/
+
