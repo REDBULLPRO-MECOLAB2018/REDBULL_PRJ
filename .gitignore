@@ -1,5 +1,3 @@
 #このファイルに記述されたものは, githubに追跡されなくなる
 
-build/
-devel/
 .vscode/
